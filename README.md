@@ -24,6 +24,10 @@ Sarkar Sathi is a mobile application designed to simplify access to government s
 ![](/assets/slides/Slide10.PNG)
 ![](/assets/slides/Slide11.PNG)
 ![](/assets/slides/Slide12.PNG)
-[![](assets/slides/Slide13.PNG)](assets/slides/demo_vid.mp4)
+
+https://github.com/user-attachments/assets/7ee16a36-f0a4-42f5-876e-6ffff20333a4
+
+
+
 ![](/assets/slides/Slide14.PNG)
 
